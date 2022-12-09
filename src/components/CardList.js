@@ -4,9 +4,7 @@ import Card from './Card.js';
 
 
 const CardList = ({robots}) => {
-	if(true){
-		throw new Error("Error lelelele");
-	}
+	
 	
 	return(
 	<div>
